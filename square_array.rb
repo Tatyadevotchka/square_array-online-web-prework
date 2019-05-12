@@ -1,5 +1,6 @@
 def square_array(numbers)
   new_numbers =[]
-  number.do 
+  number.each do 
+    
   
 end
